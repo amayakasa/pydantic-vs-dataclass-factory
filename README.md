@@ -1,6 +1,6 @@
 # pydantic vs dataclass_factory
 
-A small benchmark for comparing serialization/deserialization speed
+A small benchmark for comparing serialization/parsing speed
 using [pydantic](https://github.com/samuelcolvin/pydantic)
 and [dataclass_factory](https://github.com/Tishka17/dataclass_factory).
 
