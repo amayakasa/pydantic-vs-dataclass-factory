@@ -1,0 +1,2 @@
+dataclass-factory >= 2.14
+pydantic >= 1.9.1
